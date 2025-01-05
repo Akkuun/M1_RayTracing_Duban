@@ -1,4 +1,4 @@
-# Install script for directory: /home/mathis/Documents/M1_IMAGINE/Prog_3D/Projet_Ray_Tracing
+# Install script for directory: /home/mathis/Documents/M1_IMAGINE/Prog_3D/rayTracingFolderGithub
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -57,6 +57,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/home/mathis/Documents/M1_IMAGINE/Prog_3D/Projet_Ray_Tracing/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/mathis/Documents/M1_IMAGINE/Prog_3D/rayTracingFolderGithub/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

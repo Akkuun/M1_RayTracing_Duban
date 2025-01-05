@@ -1,7 +1,4 @@
 # ninja log v6
-9	126	1732445463600009410	CMakeFiles/Projet_Ray_Tracing.dir/HAI719I_Raytracer/src/Trackball.cpp.o	a23205114549f569
-127	242	1732445463718009013	CMakeFiles/Projet_Ray_Tracing.dir/HAI719I_Raytracer/src/image_utils.cpp.o	c0b910fe01ead96e
-6	505	1732445463597009421	CMakeFiles/Projet_Ray_Tracing.dir/HAI719I_Raytracer/src/Camera.cpp.o	2ca603c19bc2d488
 8	96	1734437141212506004	CMakeFiles/Projet_Ray_Tracing.dir/HAI719I_Raytracer/src/Trackball.cpp.o	a23205114549f569
 97	193	1734437141301507980	CMakeFiles/Projet_Ray_Tracing.dir/HAI719I_Raytracer/src/image_utils.cpp.o	c0b910fe01ead96e
 7	325	1734437141211505982	CMakeFiles/Projet_Ray_Tracing.dir/HAI719I_Raytracer/src/Camera.cpp.o	2ca603c19bc2d488
